@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/9f2d07b5-962f-4460-82a4-7ab744e50032)
 # Library Management System
 
 This is a **Library Management System** developed using the **Flask** framework in Python for the backend and **HTML, CSS** for the frontend. The system provides an interface to manage books in a library. Users can add books, view available books, check out and return books. The system also features a **Dark Mode/Light Mode** toggle for a more customizable and user-friendly experience.
